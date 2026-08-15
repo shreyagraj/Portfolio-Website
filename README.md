@@ -1,14 +1,4 @@
-# Ring Carousel
-
-A 3D ring carousel in React — items orbit an ellipse in perspective space with a
-centre preview, drag/wheel/keyboard control, inertia, optional snapping, and
-pointer-parallax tilt.
-
-Ported from a Framer code component to a standalone Vite app. The motion
-architecture is unchanged: rotation is a single framer-motion `MotionValue`,
-and every per-item property (position, scale, opacity, blur, yaw, z-index)
-derives from it through `useTransform`, so nothing re-renders while the ring
-spins.
+# Shreya Gangaraj Portfolio
 
 ## Run
 
